@@ -1,0 +1,21 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 200 200" fill="none">
+  <!-- Watercolor Wash -->
+  <path d="M50,90 Q40,55 80,40 Q130,30 155,65 Q170,115 145,150 Q105,175 60,150 Q35,120 50,90 Z" fill="#fb923c" opacity="0.5"/>
+  <circle cx="100" cy="100" r="45" fill="#facc15" opacity="0.45"/>
+
+  <!-- Ruffled Pom-Pom Layered Petals -->
+  <g stroke="#431407" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round" fill="#fed7aa" fill-opacity="0.85">
+    <!-- Outer Ruffles -->
+    <path d="M100,45 Q112,42 120,48 Q130,42 140,50 Q150,50 155,62 Q162,68 160,80 Q168,90 165,102 Q168,115 160,125 Q158,138 145,145 Q135,155 120,155 Q108,160 100,158 Q90,160 80,155 Q65,155 55,145 Q42,138 40,125 Q32,115 35,102 Q32,90 40,80 Q38,68 45,62 Q50,50 60,50 Q70,42 80,48 Q88,42 100,45 Z"/>
+    
+    <!-- Mid Ruffle Ring -->
+    <path d="M100,62 Q115,60 128,68 Q140,78 142,95 Q142,115 130,128 Q115,140 100,138 Q85,140 70,128 Q58,115 58,95 Q60,78 72,68 Q85,60 100,62 Z" fill="#fde047"/>
+
+    <!-- Inner Tight Center -->
+    <path d="M100,78 Q110,75 118,82 Q125,90 122,102 Q118,112 108,118 Q100,120 92,118 Q82,112 78,102 Q75,90 82,82 Q90,75 100,78 Z" fill="#ea580c"/>
+  </g>
+
+  <!-- Center texture markings -->
+  <circle cx="100" cy="100" r="10" fill="#c2410c"/>
+  <path d="M96,96 L104,104 M96,104 L104,96" stroke="#7c2d12" stroke-width="2"/>
+</svg>

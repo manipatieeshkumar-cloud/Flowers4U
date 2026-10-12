@@ -1,0 +1,34 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 200 200" fill="none">
+  <defs>
+    <radialGradient id="rose-wash" cx="48%" cy="46%" r="52%">
+      <stop offset="0%" stop-color="#ff4d6d" stop-opacity="0.75"/>
+      <stop offset="55%" stop-color="#c9184a" stop-opacity="0.8"/>
+      <stop offset="85%" stop-color="#800f2f" stop-opacity="0.85"/>
+      <stop offset="100%" stop-color="#590d22" stop-opacity="0"/>
+    </radialGradient>
+    <radialGradient id="rose-center" cx="50%" cy="50%" r="50%">
+      <stop offset="0%" stop-color="#590d22"/>
+      <stop offset="100%" stop-color="#a4133c"/>
+    </radialGradient>
+  </defs>
+
+  <!-- Organic Watercolor Base Glow -->
+  <path d="M42,92 C32,58 68,36 102,34 C140,32 168,58 164,96 C160,136 134,166 98,166 C62,166 38,132 42,92 Z" fill="url(#rose-wash)" filter="drop-shadow(0px 8px 16px rgba(128,15,47,0.18))"/>
+
+  <!-- Outer Petal Folds -->
+  <path d="M52,78 C40,98 48,135 78,152 C95,162 125,162 145,148 C168,130 168,98 152,76 C138,58 120,54 100,54 C78,54 62,64 52,78 Z" fill="#a4133c" fill-opacity="0.45" stroke="#4a0418" stroke-width="2.2" stroke-linejoin="round"/>
+
+  <!-- Mid Spiral Petals -->
+  <path d="M60,94 C56,122 82,146 112,144 C138,142 152,120 148,96 C144,74 128,64 108,66 C86,68 64,76 60,94 Z" fill="#c9184a" fill-opacity="0.6" stroke="#3b0213" stroke-width="2.0"/>
+
+  <path d="M72,108 C75,128 100,138 122,132 C138,126 142,108 136,92 C130,78 116,74 102,76 C86,78 70,90 72,108 Z" fill="#ff4d6d" fill-opacity="0.5" stroke="#3b0213" stroke-width="1.8"/>
+
+  <!-- Inner Swirl Bud Core -->
+  <path d="M85,102 C86,116 102,124 116,118 C128,114 128,100 120,92 C112,84 98,86 92,94 Z" fill="url(#rose-center)" stroke="#2b000b" stroke-width="1.8"/>
+  <path d="M96,96 C98,104 108,108 114,104 C118,100 116,94 110,92 C104,90 98,92 96,96 Z" fill="#ff758f" stroke="#2b000b" stroke-width="1.5"/>
+
+  <!-- Delicate Petal Rim Calligraphy -->
+  <path d="M65,70 C80,58 122,58 138,72" stroke="#2b000b" stroke-width="2.2" stroke-linecap="round"/>
+  <path d="M148,82 C162,102 158,128 138,146" stroke="#2b000b" stroke-width="2.2" stroke-linecap="round"/>
+  <path d="M58,112 C64,136 86,154 112,154" stroke="#2b000b" stroke-width="2.2" stroke-linecap="round"/>
+</svg>

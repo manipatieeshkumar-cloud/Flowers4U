@@ -1,0 +1,40 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 200 200" fill="none">
+  <!-- Soft Watercolor Wash -->
+  <path d="M100,28 L148,82 L168,142 L100,168 L32,142 L52,82 Z" fill="#f43f5e" fill-opacity="0.25" filter="drop-shadow(0px 8px 16px rgba(244,63,94,0.18))"/>
+
+  <!-- 6 Recurved Lily Tepals -->
+  <g stroke="#26040e" stroke-width="2.2" stroke-linecap="round" stroke-linejoin="round" fill="#ffe4e6" fill-opacity="0.88">
+    <!-- North -->
+    <path d="M100,105 C92,72 82,42 100,26 C118,42 108,72 100,105 Z"/>
+    <!-- North-East -->
+    <path d="M100,105 C118,88 152,70 168,82 C162,102 132,110 100,105 Z"/>
+    <!-- South-East -->
+    <path d="M100,105 C118,118 145,148 138,166 C120,162 108,132 100,105 Z"/>
+    <!-- South-West -->
+    <path d="M100,105 C85,118 62,162 48,154 C48,134 78,116 100,105 Z"/>
+    <!-- North-West -->
+    <path d="M100,105 C78,92 42,75 34,92 C48,106 78,105 100,105 Z"/>
+    <!-- South -->
+    <path d="M100,105 C94,122 92,152 100,174 C108,152 106,122 100,105 Z"/>
+  </g>
+
+  <!-- Deep Pink Petal Centers -->
+  <path d="M100,105 L100,45 M100,105 L150,88 M100,105 L132,150 M100,105 L100,162 M100,105 L60,145 M100,105 L48,94" stroke="#e11d48" stroke-width="2.5" stroke-linecap="round"/>
+
+  <!-- Freckles -->
+  <g fill="#9f1239">
+    <circle cx="98" cy="82" r="1.5"/><circle cx="102" cy="74" r="1.5"/><circle cx="118" cy="98" r="1.5"/><circle cx="84" cy="100" r="1.5"/><circle cx="108" cy="120" r="1.5"/>
+  </g>
+
+  <!-- Filaments & Anthers -->
+  <g stroke="#3f6212" stroke-width="1.8" stroke-linecap="round">
+    <path d="M100,105 Q92,85 86,72"/><path d="M100,105 Q110,85 116,70"/>
+    <path d="M100,105 Q120,102 130,102"/><path d="M100,105 Q78,105 68,108"/>
+  </g>
+  <g fill="#7c2d12">
+    <ellipse cx="85" cy="70" rx="3.5" ry="2" transform="rotate(-30 85 70)"/>
+    <ellipse cx="117" cy="69" rx="3.5" ry="2" transform="rotate(30 117 69)"/>
+    <ellipse cx="132" cy="102" rx="2" ry="3.5"/>
+    <ellipse cx="66" cy="108" rx="2" ry="3.5"/>
+  </g>
+</svg>

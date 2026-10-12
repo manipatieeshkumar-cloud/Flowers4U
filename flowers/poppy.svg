@@ -1,0 +1,32 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 200 200" fill="none">
+  <!-- Watercolor Wash -->
+  <path d="M50,85 Q40,45 90,38 Q145,30 165,75 Q175,125 140,160 Q90,175 55,150 Q35,115 50,85 Z" fill="#f87171" opacity="0.5"/>
+  <circle cx="100" cy="100" r="48" fill="#ef4444" opacity="0.35"/>
+
+  <!-- Four Wide Cup Petals -->
+  <g stroke="#1c1917" stroke-width="2.6" stroke-linecap="round" stroke-linejoin="round" fill="#fee2e2" fill-opacity="0.85">
+    <!-- Top Petal -->
+    <path d="M100,100 C75,70 65,45 95,40 C115,38 135,50 140,65 C130,85 115,95 100,100 Z"/>
+    <!-- Right Petal -->
+    <path d="M100,100 C115,85 140,75 158,90 C168,110 155,135 138,145 C120,130 110,115 100,100 Z"/>
+    <!-- Bottom Petal -->
+    <path d="M100,100 C115,115 130,135 115,158 C95,168 70,160 55,145 C70,125 85,115 100,100 Z"/>
+    <!-- Left Petal -->
+    <path d="M100,100 C85,115 65,125 45,110 C35,90 48,65 65,55 C80,70 90,85 100,100 Z"/>
+  </g>
+
+  <!-- Dark Ink Seed Center & Stamen Halo -->
+  <circle cx="100" cy="100" r="22" fill="#09090b" opacity="0.85"/>
+  <circle cx="100" cy="100" r="12" fill="#15803d" stroke="#09090b" stroke-width="2"/>
+  <!-- Radiating Stamens -->
+  <g stroke="#09090b" stroke-width="2" stroke-linecap="round">
+    <line x1="100" y1="84" x2="100" y2="76"/>
+    <line x1="112" y1="88" x2="118" y2="82"/>
+    <line x1="116" y1="100" x2="124" y2="100"/>
+    <line x1="112" y1="112" x2="118" y2="118"/>
+    <line x1="100" y1="116" x2="100" y2="124"/>
+    <line x1="88" y1="112" x2="82" y2="118"/>
+    <line x1="84" y1="100" x2="76" y2="100"/>
+    <line x1="88" y1="88" x2="82" y2="82"/>
+  </g>
+</svg>

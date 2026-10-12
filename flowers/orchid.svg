@@ -1,0 +1,25 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 200 200" fill="none">
+  <!-- Lilac Watercolor Wash -->
+  <path d="M50,75 C30,95 40,140 70,155 C100,170 140,160 160,135 C175,100 165,65 135,50 C100,35 68,50 50,75 Z" fill="#c084fc" fill-opacity="0.3"/>
+
+  <!-- Sepals (Back Layer) -->
+  <g stroke="#2e1065" stroke-width="2.2" stroke-linecap="round" stroke-linejoin="round" fill="#f3e8ff" fill-opacity="0.85">
+    <!-- Dorsal Top Sepal -->
+    <path d="M100,95 C92,68 88,40 100,30 C112,40 108,68 100,95 Z"/>
+    <!-- Left Lower Sepal -->
+    <path d="M100,95 C78,102 54,128 62,148 C78,144 95,120 100,95 Z"/>
+    <!-- Right Lower Sepal -->
+    <path d="M100,95 C122,102 146,128 138,148 C122,144 105,120 100,95 Z"/>
+  </g>
+
+  <!-- Broad Lateral Wing Petals -->
+  <g stroke="#2e1065" stroke-width="2.2" stroke-linecap="round" stroke-linejoin="round" fill="#faf5ff">
+    <path d="M100,95 C75,80 42,65 34,88 C30,108 65,122 100,95 Z"/>
+    <path d="M100,95 C125,80 158,65 166,88 C170,108 135,122 100,95 Z"/>
+  </g>
+
+  <!-- Labellum Lip & Golden Column -->
+  <path d="M100,95 C88,108 85,128 100,138 C115,128 112,108 100,95 Z" fill="#9333ea" stroke="#2e1065" stroke-width="2"/>
+  <circle cx="100" cy="98" r="5" fill="#facc15" stroke="#2e1065" stroke-width="1.8"/>
+  <circle cx="100" cy="98" r="1.8" fill="#713f12"/>
+</svg>

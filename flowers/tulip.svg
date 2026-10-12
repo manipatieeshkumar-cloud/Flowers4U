@@ -1,0 +1,28 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 200 200" fill="none">
+  <defs>
+    <linearGradient id="tulip-grad" x1="0%" y1="100%" x2="0%" y2="0%">
+      <stop offset="0%" stop-color="#e63946"/>
+      <stop offset="50%" stop-color="#ff758f"/>
+      <stop offset="100%" stop-color="#ffb3c1"/>
+    </linearGradient>
+  </defs>
+
+  <!-- Soft Watercolor Blush Wash -->
+  <path d="M68,162 C48,135 48,78 74,48 C96,24 126,28 144,52 C164,80 160,135 138,164 C118,178 88,178 68,162 Z" fill="#ff758f" fill-opacity="0.3" filter="drop-shadow(0px 8px 14px rgba(230,57,70,0.15))"/>
+
+  <!-- Back Petal -->
+  <path d="M82,42 C92,30 114,30 124,42 C134,58 136,88 124,104 C112,88 88,88 82,42 Z" fill="#d90429" fill-opacity="0.7" stroke="#2b0d12" stroke-width="2"/>
+
+  <!-- Left Main Wing Petal -->
+  <path d="M56,76 C52,118 72,160 102,168 C85,142 70,105 78,65 C68,68 60,72 56,76 Z" fill="url(#tulip-grad)" stroke="#2b0d12" stroke-width="2.2" stroke-linejoin="round"/>
+
+  <!-- Right Main Wing Petal -->
+  <path d="M148,76 C152,118 132,160 102,168 C118,142 134,105 126,65 C136,68 144,72 148,76 Z" fill="url(#tulip-grad)" stroke="#2b0d12" stroke-width="2.2" stroke-linejoin="round"/>
+
+  <!-- Center Heart Petal -->
+  <path d="M78,65 C90,48 114,48 126,65 C136,105 118,155 102,168 C85,155 68,105 78,65 Z" fill="#ff4d6d" fill-opacity="0.85" stroke="#2b0d12" stroke-width="2.2"/>
+
+  <!-- Subtle Inner Stamen Accent -->
+  <path d="M100,68 L100,56" stroke="#2b0d12" stroke-width="2.5" stroke-linecap="round"/>
+  <circle cx="100" cy="54" r="3" fill="#ffd166"/>
+</svg>

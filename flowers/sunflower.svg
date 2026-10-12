@@ -1,0 +1,29 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 200 200" fill="none">
+  <!-- Sun Glow -->
+  <circle cx="100" cy="100" r="68" fill="#fde047" fill-opacity="0.35"/>
+
+  <!-- Radiating Ray Petals -->
+  <g stroke="#3d2105" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" fill="#facc15">
+    <!-- 16 Radial Petals -->
+    <path d="M100,62 C96,48 94,32 100,24 C106,32 104,48 100,62 Z"/>
+    <path d="M115,66 C125,54 135,42 144,40 C144,52 135,64 121,72 Z"/>
+    <path d="M128,79 C142,74 158,70 166,74 C162,84 148,90 134,87 Z"/>
+    <path d="M136,98 C150,96 168,98 174,104 C166,112 150,110 135,104 Z"/>
+    <path d="M128,119 C140,126 156,134 158,142 C148,146 134,136 122,126 Z"/>
+    <path d="M115,133 C124,146 132,160 130,168 C120,166 112,152 108,138 Z"/>
+    <path d="M100,138 C104,152 106,168 100,176 C94,168 96,152 100,138 Z"/>
+    <path d="M85,133 C76,146 68,160 70,168 C80,166 88,152 92,138 Z"/>
+    <path d="M72,119 C60,126 44,134 42,142 C52,146 66,136 78,126 Z"/>
+    <path d="M64,98 C50,96 32,98 26,104 C34,112 50,110 65,104 Z"/>
+    <path d="M72,79 C58,74 42,70 34,74 C38,84 52,90 66,87 Z"/>
+    <path d="M85,66 C75,54 65,42 56,40 C56,52 65,64 79,72 Z"/>
+  </g>
+
+  <!-- Rich Bronze/Chocolate Center Disc -->
+  <circle cx="100" cy="100" r="32" fill="#451a03" stroke="#261002" stroke-width="2.4"/>
+  <circle cx="100" cy="100" r="24" fill="#78350f"/>
+  <circle cx="100" cy="100" r="14" fill="#92400e"/>
+
+  <!-- Disc Florets Speckling -->
+  <circle cx="100" cy="100" r="6" fill="#b45309"/>
+</svg>

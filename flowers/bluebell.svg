@@ -1,0 +1,25 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 200 200" fill="none">
+  <!-- Watercolor Wash -->
+  <path d="M65,45 Q110,30 135,65 Q160,115 130,155 Q85,175 60,140 Q45,95 65,45 Z" fill="#a5b4fc" opacity="0.45"/>
+  <path d="M75,60 Q120,50 125,95 Q130,140 90,150 Q65,115 75,60 Z" fill="#818cf8" opacity="0.35"/>
+
+  <!-- Arching Stem -->
+  <path d="M140,35 Q100,50 90,175" stroke="#3f6212" stroke-width="2.8" stroke-linecap="round"/>
+
+  <!-- Nodding Bell Florets -->
+  <g stroke="#1e1b4b" stroke-width="2.6" stroke-linecap="round" stroke-linejoin="round" fill="#e0e7ff" fill-opacity="0.85">
+    <!-- Main Bell -->
+    <path d="M92,85 C75,95 60,120 70,140 C80,148 95,148 102,142 C108,125 105,105 92,85 Z"/>
+    <!-- Recurved Bell Tips -->
+    <path d="M70,140 Q62,145 60,152"/>
+    <path d="M85,146 Q85,154 85,160"/>
+    <path d="M102,142 Q108,148 115,152"/>
+
+    <!-- Secondary Upper Bell -->
+    <path d="M110,55 C95,65 85,85 92,100 C100,106 112,105 118,100 C122,86 120,70 110,55 Z" fill="#c7d2fe"/>
+  </g>
+
+  <!-- Protruding Pale Yellow Anthers -->
+  <line x1="86" y1="145" x2="86" y2="158" stroke="#fef08a" stroke-width="2.2" stroke-linecap="round"/>
+  <circle cx="86" cy="159" r="2" fill="#ca8a04"/>
+</svg>

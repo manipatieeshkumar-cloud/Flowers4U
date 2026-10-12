@@ -1,0 +1,27 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 200 200" fill="none">
+  <defs>
+    <radialGradient id="peony-glow" cx="50%" cy="50%" r="50%">
+      <stop offset="0%" stop-color="#ffb3c6" stop-opacity="0.9"/>
+      <stop offset="60%" stop-color="#ff8fab" stop-opacity="0.6"/>
+      <stop offset="100%" stop-color="#fb6f92" stop-opacity="0"/>
+    </radialGradient>
+  </defs>
+
+  <circle cx="100" cy="100" r="68" fill="url(#peony-glow)"/>
+
+  <!-- Outer Billowy Petal Ruffles -->
+  <g stroke="#3a0916" stroke-width="2.2" stroke-linecap="round" stroke-linejoin="round" fill="#ffe5ec" fill-opacity="0.8">
+    <path d="M70,45 C85,38 115,38 130,45 C150,56 168,80 165,110 C162,140 138,162 105,165 C70,165 42,142 40,110 C38,78 52,54 70,45 Z"/>
+    <!-- Overlapping Ruffle Tiers -->
+    <path d="M56,70 C68,58 92,62 100,72 C108,62 132,58 144,70 C155,84 156,118 140,138 C124,152 82,154 64,136 C48,118 46,84 56,70 Z" fill="#ffc2d1" fill-opacity="0.75"/>
+    <path d="M68,88 C80,78 120,78 132,88 C142,100 138,126 122,136 C105,142 85,140 76,132 C65,122 60,98 68,88 Z" fill="#ff8fab" fill-opacity="0.65"/>
+    <path d="M82,98 C92,90 110,90 120,98 C126,108 122,122 110,126 C98,128 86,122 82,112 Z" fill="#fb6f92" fill-opacity="0.75"/>
+  </g>
+
+  <!-- Golden Core Pollen Flecks -->
+  <g fill="#e9c46a">
+    <circle cx="98" cy="106" r="2.2"/>
+    <circle cx="104" cy="104" r="2"/>
+    <circle cx="102" cy="110" r="2.2"/>
+  </g>
+</svg>

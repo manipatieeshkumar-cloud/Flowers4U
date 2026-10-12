@@ -1,0 +1,25 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 200 200" fill="none">
+  <!-- Soft Violet Glow -->
+  <path d="M85,25 Q115,20 125,50 Q130,100 115,150 Q90,175 80,130 Q75,60 85,25 Z" fill="#c4b5fd" fill-opacity="0.35"/>
+
+  <!-- Slender Green Stem -->
+  <path d="M100,28 Q98,100 102,185" stroke="#365314" stroke-width="3" stroke-linecap="round"/>
+  <!-- Narrow Leaves -->
+  <path d="M101,155 Q82,142 75,130" stroke="#4d7c0f" stroke-width="2.4" stroke-linecap="round"/>
+  <path d="M101,168 Q118,155 128,142" stroke="#4d7c0f" stroke-width="2.4" stroke-linecap="round"/>
+
+  <!-- Clustered Florets along Spire -->
+  <g stroke="#2e1065" stroke-width="2.2" stroke-linecap="round" stroke-linejoin="round" fill="#7c3aed">
+    <ellipse cx="100" cy="38" rx="8" ry="6" fill="#8b5cf6"/>
+    <ellipse cx="93" cy="50" rx="10" ry="7" fill="#8b5cf6"/>
+    <ellipse cx="107" cy="51" rx="10" ry="7" fill="#7c3aed"/>
+    <ellipse cx="91" cy="66" rx="12" ry="8" fill="#8b5cf6"/>
+    <ellipse cx="109" cy="67" rx="12" ry="8" fill="#6d28d9"/>
+    <ellipse cx="90" cy="84" rx="13" ry="9" fill="#8b5cf6"/>
+    <ellipse cx="110" cy="85" rx="13" ry="9" fill="#7c3aed"/>
+    <ellipse cx="89" cy="104" rx="14" ry="9.5" fill="#8b5cf6"/>
+    <ellipse cx="111" cy="105" rx="14" ry="9.5" fill="#6d28d9"/>
+    <ellipse cx="89" cy="124" rx="13" ry="9" fill="#7c3aed"/>
+    <ellipse cx="111" cy="125" rx="13" ry="9" fill="#5b21b6"/>
+  </g>
+</svg>

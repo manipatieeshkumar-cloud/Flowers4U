@@ -1,0 +1,39 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 200 200" fill="none">
+  <!-- Watercolor Wash -->
+  <path d="M50,85 Q40,50 85,38 Q135,28 160,65 Q175,115 145,155 Q105,178 55,150 Q30,115 50,85 Z" fill="#fdba74" opacity="0.45"/>
+  <circle cx="100" cy="100" r="46" fill="#fde047" opacity="0.4"/>
+
+  <!-- Radiating Spider / Quill Petals -->
+  <g stroke="#451a03" stroke-width="2.4" stroke-linecap="round" stroke-linejoin="round" fill="#ffedd5" fill-opacity="0.85">
+    <!-- North -->
+    <path d="M100,100 C95,75 92,50 100,38 C108,50 105,75 100,100 Z"/>
+    <!-- NE -->
+    <path d="M100,100 C112,82 135,62 145,55 C142,68 122,88 100,100 Z"/>
+    <!-- East -->
+    <path d="M100,100 C125,95 150,95 162,100 C150,105 125,105 100,100 Z"/>
+    <!-- SE -->
+    <path d="M100,100 C118,115 138,135 145,145 C132,140 115,122 100,100 Z"/>
+    <!-- South -->
+    <path d="M100,100 C105,125 105,150 100,162 C95,150 95,125 100,100 Z"/>
+    <!-- SW -->
+    <path d="M100,100 C82,118 62,138 55,145 C60,132 82,115 100,100 Z"/>
+    <!-- West -->
+    <path d="M100,100 C75,105 50,105 38,100 C50,95 75,95 100,100 Z"/>
+    <!-- NW -->
+    <path d="M100,100 C85,82 65,62 55,55 C68,60 88,82 100,100 Z"/>
+
+    <!-- Inner Radial Ring -->
+    <circle cx="100" cy="72" r="8" fill="#fef08a"/>
+    <circle cx="120" cy="80" r="8" fill="#fef08a"/>
+    <circle cx="128" cy="100" r="8" fill="#fef08a"/>
+    <circle cx="120" cy="120" r="8" fill="#fef08a"/>
+    <circle cx="100" cy="128" r="8" fill="#fef08a"/>
+    <circle cx="80" cy="120" r="8" fill="#fef08a"/>
+    <circle cx="72" cy="100" r="8" fill="#fef08a"/>
+    <circle cx="80" cy="80" r="8" fill="#fef08a"/>
+  </g>
+
+  <!-- Button Center -->
+  <circle cx="100" cy="100" r="14" fill="#b45309" stroke="#451a03" stroke-width="2.4"/>
+  <circle cx="100" cy="100" r="8" fill="#78350f"/>
+</svg>

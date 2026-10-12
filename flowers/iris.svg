@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 200 200" fill="none">
+  <!-- Watercolor Wash -->
+  <path d="M60,60 Q100,30 140,60 Q170,110 150,150 Q100,175 50,150 Q30,110 60,60 Z" fill="#818cf8" opacity="0.45"/>
+  <path d="M75,50 Q100,35 125,50 Q135,100 100,145 Q65,100 75,50 Z" fill="#6366f1" opacity="0.4"/>
+
+  <!-- Upright Standards (Top Petals) -->
+  <g stroke="#1e1b4b" stroke-width="2.6" stroke-linecap="round" stroke-linejoin="round" fill="#e0e7ff" fill-opacity="0.85">
+    <path d="M100,110 C85,85 80,55 92,38 C102,40 104,70 100,110 Z"/>
+    <path d="M100,110 C115,85 120,55 108,38 C98,40 96,70 100,110 Z"/>
+    <path d="M100,110 C92,75 95,45 100,35 C105,45 108,75 100,110 Z" fill="#c7d2fe"/>
+
+    <!-- Drooping Falls (Lower Arched Petals) -->
+    <path d="M100,110 C75,112 40,118 42,142 C55,152 78,140 100,110 Z"/>
+    <path d="M100,110 C125,112 160,118 158,142 C145,152 122,140 100,110 Z"/>
+    <path d="M100,110 C88,130 85,155 100,165 C115,155 112,130 100,110 Z" fill="#c7d2fe"/>
+  </g>
+
+  <!-- Yellow/Gold Beard Texture on Falls -->
+  <path d="M65,130 Q75,126 88,120" stroke="#f59e0b" stroke-width="3" stroke-linecap="round"/>
+  <path d="M135,130 Q125,126 112,120" stroke="#f59e0b" stroke-width="3" stroke-linecap="round"/>
+  <path d="M100,125 L100,145" stroke="#f59e0b" stroke-width="3.2" stroke-linecap="round"/>
+</svg>

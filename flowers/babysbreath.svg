@@ -1,0 +1,36 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 200 200" fill="none">
+  <!-- Subtle Ethereal Wash -->
+  <path d="M50,80 Q70,38 120,44 Q165,54 160,110 Q150,156 100,156 Q50,140 50,80 Z" fill="#e2e8f0" fill-opacity="0.4"/>
+
+  <!-- Slender Branching Stems -->
+  <g stroke="#3f6212" stroke-width="2" stroke-linecap="round">
+    <path d="M100,185 Q100,145 100,112"/>
+    <path d="M100,145 Q80,125 65,100"/>
+    <path d="M100,135 Q125,115 140,85"/>
+    <path d="M65,100 Q55,85 50,68"/>
+    <path d="M65,100 Q75,85 85,75"/>
+    <path d="M100,112 Q95,85 92,60"/>
+    <path d="M100,112 Q110,85 118,65"/>
+    <path d="M140,85 Q135,70 138,55"/>
+    <path d="M140,85 Q155,75 162,68"/>
+  </g>
+
+  <!-- Delicate White Starry Florets -->
+  <g stroke="#18181b" stroke-width="1.8" fill="#ffffff">
+    <circle cx="50" cy="68" r="6.5"/>
+    <circle cx="85" cy="75" r="7"/>
+    <circle cx="92" cy="60" r="6"/>
+    <circle cx="118" cy="65" r="7.5"/>
+    <circle cx="138" cy="55" r="6.5"/>
+    <circle cx="162" cy="68" r="6"/>
+    <circle cx="68" cy="92" r="6"/>
+    <circle cx="132" cy="95" r="7"/>
+    <circle cx="102" cy="85" r="6.5"/>
+  </g>
+  <!-- Gold Center Dots -->
+  <g fill="#ca8a04">
+    <circle cx="50" cy="68" r="1.6"/><circle cx="85" cy="75" r="1.6"/><circle cx="92" cy="60" r="1.6"/>
+    <circle cx="118" cy="65" r="1.6"/><circle cx="138" cy="55" r="1.6"/><circle cx="162" cy="68" r="1.6"/>
+    <circle cx="68" cy="92" r="1.6"/><circle cx="132" cy="95" r="1.6"/><circle cx="102" cy="85" r="1.6"/>
+  </g>
+</svg>

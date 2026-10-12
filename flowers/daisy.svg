@@ -1,0 +1,26 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 200 200" fill="none">
+  <!-- Subtle Soft Halo -->
+  <circle cx="100" cy="100" r="62" fill="#fef08a" fill-opacity="0.25"/>
+
+  <!-- 16 Slender White Ray Petals -->
+  <g stroke="#262626" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round" fill="#ffffff">
+    <path d="M100,75 C97,55 96,38 100,28 C104,38 103,55 100,75 Z"/>
+    <path d="M110,77 C122,60 134,46 142,42 C142,52 130,68 116,81 Z"/>
+    <path d="M119,87 C138,76 154,68 162,72 C158,80 142,88 124,93 Z"/>
+    <path d="M125,100 C145,98 162,100 170,105 C162,111 145,108 125,104 Z"/>
+    <path d="M119,113 C138,124 154,132 158,140 C148,144 134,132 116,119 Z"/>
+    <path d="M110,123 C122,140 130,154 128,162 C118,160 110,146 104,125 Z"/>
+    <path d="M100,125 C103,145 104,162 100,172 C96,162 97,145 100,125 Z"/>
+    <path d="M90,123 C78,140 70,154 72,162 C82,160 90,146 96,125 Z"/>
+    <path d="M81,113 C62,124 46,132 42,140 C52,144 66,132 84,119 Z"/>
+    <path d="M75,100 C55,98 38,100 30,105 C38,111 55,108 75,104 Z"/>
+    <path d="M81,87 C62,76 46,68 38,72 C42,80 58,88 76,93 Z"/>
+    <path d="M90,77 C78,60 66,46 58,42 C58,52 70,68 84,81 Z"/>
+  </g>
+
+  <!-- Glowing Yellow Dome -->
+  <circle cx="100" cy="100" r="22" fill="#eab308" stroke="#1f1f1f" stroke-width="2.2"/>
+  <circle cx="100" cy="100" r="14" fill="#facc15"/>
+  <!-- Center texture -->
+  <circle cx="100" cy="100" r="5" fill="#ca8a04"/>
+</svg>

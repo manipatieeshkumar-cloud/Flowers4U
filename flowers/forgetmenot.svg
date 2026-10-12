@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 200 200" fill="none">
+  <!-- Watercolor Wash -->
+  <path d="M60,60 Q100,30 140,55 Q175,95 155,145 Q110,175 60,150 Q30,105 60,60 Z" fill="#60a5fa" opacity="0.45"/>
+  <circle cx="100" cy="100" r="45" fill="#93c5fd" opacity="0.4"/>
+
+  <!-- Five Rounded Sky-Blue Petals -->
+  <g stroke="#1e293b" stroke-width="2.6" stroke-linecap="round" stroke-linejoin="round" fill="#dbeafe" fill-opacity="0.85">
+    <circle cx="100" cy="65" r="22"/>
+    <circle cx="132" cy="88" r="22"/>
+    <circle cx="120" cy="128" r="22"/>
+    <circle cx="80" cy="128" r="22"/>
+    <circle cx="68" cy="88" r="22"/>
+  </g>
+
+  <!-- Bright Yellow Star Eye with White Rim -->
+  <circle cx="100" cy="100" r="14" fill="#ffffff" stroke="#1e293b" stroke-width="2"/>
+  <polygon points="100,88 103,96 112,96 105,101 108,110 100,104 92,110 95,101 88,96 97,96" fill="#eab308"/>
+  <circle cx="100" cy="100" r="3.5" fill="#1e293b"/>
+</svg>

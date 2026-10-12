@@ -1,0 +1,41 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 200 200" fill="none">
+  <!-- Watercolor Wash -->
+  <path d="M70,35 Q130,25 155,65 Q180,110 145,155 Q100,185 55,150 Q25,100 70,35 Z" fill="#fbcfe8" opacity="0.5"/>
+  <circle cx="100" cy="100" r="50" fill="#f472b6" opacity="0.3"/>
+
+  <!-- Sakura 5 Petals with notched tips and black ink contours -->
+  <g stroke="#1c1917" stroke-width="2.6" stroke-linecap="round" stroke-linejoin="round" fill="#fff1f2" fill-opacity="0.85">
+    <!-- Top Petal -->
+    <path d="M100,100 C88,80 75,55 92,42 C96,44 100,50 100,48 C100,50 104,44 108,42 C125,55 112,80 100,100 Z"/>
+    <!-- Top Right Petal -->
+    <path d="M100,100 C112,85 138,80 152,94 C150,98 144,101 146,102 C144,101 148,106 148,111 C135,123 115,110 100,100 Z"/>
+    <!-- Bottom Right Petal -->
+    <path d="M100,100 C110,112 125,138 112,154 C107,152 103,146 101,147 C103,146 98,150 93,151 C83,138 90,115 100,100 Z"/>
+    <!-- Bottom Left Petal -->
+    <path d="M100,100 C90,112 75,135 60,126 C60,121 64,116 63,115 C64,116 59,112 58,107 C68,92 90,100 100,100 Z"/>
+    <!-- Top Left Petal -->
+    <path d="M100,100 C85,90 60,78 62,61 C67,61 71,65 72,64 C71,65 74,60 79,59 C92,72 90,90 100,100 Z"/>
+  </g>
+
+  <!-- Center Magenta Stamen Star -->
+  <g stroke="#be185d" stroke-width="1.8" stroke-linecap="round">
+    <line x1="100" y1="100" x2="100" y2="78"/>
+    <line x1="100" y1="100" x2="118" y2="86"/>
+    <line x1="100" y1="100" x2="120" y2="108"/>
+    <line x1="100" y1="100" x2="108" y2="120"/>
+    <line x1="100" y1="100" x2="92" y2="120"/>
+    <line x1="100" y1="100" x2="80" y2="106"/>
+    <line x1="100" y1="100" x2="82" y2="88"/>
+  </g>
+  <!-- Anther Dots -->
+  <g fill="#9d174d">
+    <circle cx="100" cy="76" r="2.5"/>
+    <circle cx="120" cy="85" r="2.5"/>
+    <circle cx="122" cy="109" r="2.5"/>
+    <circle cx="109" cy="122" r="2.5"/>
+    <circle cx="90" cy="122" r="2.5"/>
+    <circle cx="78" cy="107" r="2.5"/>
+    <circle cx="80" cy="86" r="2.5"/>
+  </g>
+  <circle cx="100" cy="100" r="5" fill="#f43f5e"/>
+</svg>

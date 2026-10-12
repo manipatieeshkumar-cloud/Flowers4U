@@ -1,0 +1,49 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 200 200" fill="none">
+  <defs>
+    <radialGradient id="gerbera-wash" cx="50%" cy="50%" r="50%">
+      <stop offset="0%" stop-color="#fb923c" stop-opacity="0.7"/>
+      <stop offset="70%" stop-color="#f97316" stop-opacity="0.4"/>
+      <stop offset="100%" stop-color="#ea580c" stop-opacity="0"/>
+    </radialGradient>
+  </defs>
+
+  <circle cx="100" cy="100" r="70" fill="url(#gerbera-wash)"/>
+
+  <!-- Back Layer of Radiant Petals -->
+  <g stroke="#3b1103" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round" fill="#fed7aa">
+    <path d="M100,68 C96,44 94,28 100,18 C106,28 104,44 100,68 Z"/>
+    <path d="M112,71 C126,52 140,36 150,32 C148,46 134,64 118,76 Z"/>
+    <path d="M124,82 C145,70 164,60 174,66 C168,76 148,86 128,91 Z"/>
+    <path d="M129,97 C152,94 172,96 180,102 C172,110 152,106 129,103 Z"/>
+    <path d="M124,114 C145,126 164,136 168,146 C156,150 140,136 120,123 Z"/>
+    <path d="M112,126 C124,146 136,162 132,172 C120,168 110,152 104,129 Z"/>
+    <path d="M100,129 C104,152 106,172 100,182 C94,172 96,152 100,129 Z"/>
+    <path d="M88,126 C76,146 64,162 68,172 C80,168 90,152 96,129 Z"/>
+    <path d="M76,114 C55,126 36,136 32,146 C44,150 60,136 80,123 Z"/>
+    <path d="M71,97 C48,94 28,96 20,102 C28,110 48,106 71,103 Z"/>
+    <path d="M76,82 C55,70 36,60 26,66 C32,76 52,86 72,91 Z"/>
+    <path d="M88,71 C74,52 60,36 50,32 C52,46 66,64 82,76 Z"/>
+  </g>
+
+  <!-- Front Interleaved Petals -->
+  <g stroke="#3b1103" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round" fill="#fb923c">
+    <path d="M106,69 C108,48 115,34 122,26 C122,38 116,54 108,71 Z"/>
+    <path d="M118,76 C134,60 152,48 162,48 C158,60 142,74 124,84 Z"/>
+    <path d="M128,90 C148,84 168,82 176,90 C168,98 150,98 130,97 Z"/>
+    <path d="M127,105 C146,112 165,120 170,130 C158,136 142,126 124,114 Z"/>
+    <path d="M118,120 C130,138 142,154 140,164 C128,162 118,148 110,127 Z"/>
+    <path d="M94,69 C92,48 85,34 78,26 C78,38 84,54 92,71 Z"/>
+    <path d="M82,76 C66,60 48,48 38,48 C42,60 58,74 76,84 Z"/>
+    <path d="M72,90 C52,84 32,82 24,90 C32,98 50,98 70,97 Z"/>
+    <path d="M73,105 C54,112 35,120 30,130 C42,136 58,126 76,114 Z"/>
+    <path d="M82,120 C70,138 58,154 60,164 C72,162 82,148 90,127 Z"/>
+  </g>
+
+  <!-- Inner Ring of Trans-Florets -->
+  <circle cx="100" cy="100" r="28" fill="#ea580c" stroke="#260b02" stroke-width="2"/>
+  <circle cx="100" cy="100" r="20" fill="#c2410c"/>
+
+  <!-- Dark Velvet Center Eye -->
+  <circle cx="100" cy="100" r="14" fill="#18181b" stroke="#09090b" stroke-width="2.2"/>
+  <circle cx="100" cy="100" r="6" fill="#27272a"/>
+</svg>
